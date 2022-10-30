@@ -59,7 +59,8 @@ The list include the following topics (there are subtopics in some of them):
 ------------------------------
 
 - [Zlibrary](https://z-lib.org/)
-  
+- [LAU Library Databse](https://libraries.lau.edu.lb/index.php)
+- 
  
 
 
