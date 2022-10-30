@@ -13,7 +13,7 @@ Table of Contents
 ------------------------------
 
 - [Lectures & courses from international universities](#Lectures-&-courses-from-international-universities)
-
+- [Introduction to Computer Science](#introduction-to-computer-science)
 
 
 
@@ -114,5 +114,5 @@ g
 
 
 
-
+### Introduction to Computer Science
 ### Lectures & courses from international universities
