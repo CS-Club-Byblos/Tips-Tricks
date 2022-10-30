@@ -13,7 +13,7 @@
 
 - [Lectures from international universities](#Lectures-from-international-universities)
 
-- [Ebook library](#Ebook-library)
+- [Ebook libraries](#Ebook-libraries)
 
 - [Coursera free courses](#Coursera-free-courses)
 
@@ -21,14 +21,13 @@
 
 ------------------------------
 
-
 ### Lectures from international universities
 
-- The [link here](https://github.com/Sushants-Git/cs-video-courses) will lead you to a github repository made by @Sushants-Git the intent of this list is to act as Online bookmarks/lookup table for freely available online video courses.
+------------------------------
 
-- The list include various videos and course lectures from top universities, covering various topics of computer science and math.
+- The [link here](https://github.com/Sushants-Git/cs-video-courses) will lead you to a github repository made by @Sushants-Git the intent of this list is to act as Online bookmarks/lookup table for freely available online video courses. The list include various videos and course lectures from top universities, covering various topics of computer science and math.
 
--The list include the following topics:
+The list include the following topics (there are subtopics in some of them):
 - Introduction to Computer Science
 - Data Structures and Algorithms
 - Systems Programming
@@ -53,7 +52,13 @@
 - Blockchain Development
 - Misc
 
+------------------------------
 
+### Ebook libraries
+
+------------------------------
+
+- [Zlibrary](https://z-lib.org/)
   
  
 
