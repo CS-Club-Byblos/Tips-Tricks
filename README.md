@@ -8,111 +8,15 @@
 
 ------------------------------
 
-Table of Contents
+1- [Lectures from international universities](#Lectures-from-international-universities)
+
+2- [Ebook library](#Ebook-library)
+
+3- [Coursera free courses](#Coursera-free-courses)
+
+4-[Prerequisites flow chart](#Prerequisites-flow-chart)
 
 ------------------------------
 
-- [Lectures & courses from international universities](###Lectures & courses from international universities)
-- [Lectures & courses from international universities](#lectures-&-courses-from-international-universities)
 
-
-
-
-
-
-
-
-f
-ggg
-g
-gg
-g
-gg
-g
-g
-
-gg
-
-g
-g
-g
-g
-g
-gg
-g
-g
-
-g
-g
-gg
-g
-g
-g
-g
-gg
-gg
-g
-g
-g
-g
-g
-g
-
-g
-g
-g
-
-
-g
-
-
-g
-
-
-g
-
-
-
-g
-
-
-g
-
-
-g
-
-
-g
-g
-
-gg
-g
-g
-g
-g
-
-g
-g
-g
-g
-g
-
-
-
-g
-
-ggg
-
-
-ggg
-
-
-g
-
-
-
-
-
-
-### Introduction to Computer Science
-### Lectures & courses from international universities
+### Lectures from international universities
