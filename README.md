@@ -62,5 +62,14 @@ The list include the following topics (there are subtopics in some of them):
 - [LAU Library Databse](https://libraries.lau.edu.lb/index.php)
 - 
  
+ 
+------------------------------
+
+### Prerequisites flow chart
+
+------------------------------
+
+
+![alt text for screen readers](/CSC-Prerequisite Flow Chart.pdf)
 
 
