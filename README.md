@@ -70,6 +70,6 @@ The list include the following topics (there are subtopics in some of them):
 ------------------------------
 
 
-![alt text for screen readers](/CSC-Prerequisite Flow Chart.pdf)
+
 
 
