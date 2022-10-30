@@ -12,7 +12,7 @@ Table of Contents
 
 ------------------------------
 
-- [Lectures & courses from international universities](#lectures-&-courses-from-international-universities)
+- [Lectures & courses from international universities](###Lectures & courses from international universities)
 - [Lectures & courses from international universities](#lectures-&-courses-from-international-universities)
 
 
