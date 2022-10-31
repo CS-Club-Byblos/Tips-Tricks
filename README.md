@@ -100,7 +100,7 @@ The list include the following topics (there are subtopics in some of them):
 - While applying you need to fill some information as well as write a text explaining your situation, why you need financial aid and how will that course help you.
   
 - Starting off fill the following information similarly to the picture below, **minor changes in the annual wont change the outcome of the decision**
-  ![FA-Step-1](\Assests\Fa-pic-01.png)
+  ![FA-Step-1]("Assests\Fa-pic-01.png")
 
 - Next you'll be required to fill a text explaining the reason you applied for aid use the **script below:**
   
