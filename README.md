@@ -11,15 +11,15 @@
 ## Table of Content
 
 
-- **[Lectures from international universities](#Lectures-from-international-universities)**
+- **[Lectures from International Universities](#Lectures-from-international-universities)**
 
-- **[Ebook libraries](#Ebook-libraries)**
+- **[Ebook Libraries](#Ebook-libraries)**
 
-- **[University email benefits](#University-email-benefits)**
+- **[University Email Benefits](#University-email-benefits)**
 
-- **[Coursera free courses](#Coursera-free-courses)**
+- **[Coursera Free Courses](#Coursera-free-courses)**
 
-- **[Prerequisites flow chart](#Prerequisites-flow-chart)**
+- **[Prerequisites Flow Chart](#Prerequisites-flow-chart)**
 
 ------------------------------
 
@@ -55,9 +55,6 @@ The list include the following topics (there are subtopics in some of them):
 - Misc
 
 ------------------------------
-github pro
-1 free coursera
-office
 
 ## Ebook Libraries
 
@@ -70,7 +67,7 @@ office
 
 ------------------------------
 
-## University Email Benefits
+## Coursera Free Courses
 
 ------------------------------
 
@@ -92,15 +89,38 @@ office
    
    To check everything offered and sign up click **[here](https://www.microsoft.com/en-us/education/products/office)**
 
-    
-    
-
-
- 
+   
 ------------------------------
 
+## Coursera Free Courses
+------------------------------
+
+- You can get any course on coursera for free by applying to 100% financial aid (if it was offered for that course, 99% of the time it is), after replying you would need to wait a period of 2 weeks for the decision which is 99% of the time approved.
+
+- While applying you need to fill some information as well as write a text explaining your situation, why you need financial aid and how will that course help you.
+  
+- Starting off fill the following information similarly to the picture below, **minor changes in the annual wont change the outcome of the decision**
+  ![FA-Step-1](Assests\Fa-pic-01.png)
+
+- Next you'll be required to fill a text explaining the reason you applied for aid use the **script below:**
+  
+`"I am applying for financial Aid because I cannot afford the monthly subscription of --. I am unemployed and I want to take this course besides to other courses in order to enhance my skills in data analytics and find a job later on.
+I really appreciate if you take this into consideration and help me out keep on learning. With your help, I will enhance my career.
+Furthermore, I applied for the financial aid in this course because I do not have a job, I cannot get dollars to pay for the subscription. I love to keep on learning and enhancing my skills especially in this field because I need to get a job in the near future. By taking this course, the job I dream about may come true. Please I need your help to let me work in this field by taking this course (and the rest in the near future in this field). I am applying for Coursera because I know they can help people, they are a huge community that wants the youth to learn and be educated. I need you to stand by myside and help me if you please"`.
+
+- In the next step, you'll be asked how much can you pay for the course, set that value to **0**
+- Next you are reqired to write a text explaining how will the course help you with your goals, use the **script below:**
+  
+`"This course will enhance my skills in --------- and lead me to a proper job and it will help me stand on good interviews. Therefore, taking this course will attract the recruiter and they will find in me the necessary skills. I need to have job as soon as possible in this field, that's why I am applying for this course in order to have an official certificate that tell the recruiter about my skills and abilities in this field. I cannot pay anything in dollars, because the price of dollar in the market is very high, we are unemployed as Lebanese people cannot work and cannot do anything and I cannot pay either in Lebanese pounds, because I do not have a job. I wish you could see it from this side and help taking this course, in order to gain the experience from your certificate and this will lead me to big offers in the field.
+I cannot have a loan; because I am unemployed meanwhile and, in my country, there are economic crisis and dollar is vanishing. The dollar price in black market is very high, so we cannot have a load nor purchase dollar from any legal currency shop.
+The idea of having a loan is impossible to me. I wish you could appreciate my situation and take it into consideration."`
+
+- Finally after applying you will get an email telling you that your financial aid result will be sent to you by email after exactly **2 weeks**, and 99% of the time they accept the request.
+  
+------------------------------
 ## Prerequisites Flow Chart
 
 ------------------------------
+  - The following is is a flowchart showing the order, pre and co requiste of the [Computer Science Curriculum](https://soas.lau.edu.lb/academics/programs/bs-computer-science.php) at the [Lebanese American University](https://www.lau.edu.lb/)
 ![Prerequisite Flow chart](Assests\CSC-Prerequisite-Flow-Chart.png)
 
