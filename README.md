@@ -100,8 +100,9 @@ The list include the following topics (there are subtopics in some of them):
 - While applying you need to fill some information as well as write a text explaining your situation, why you need financial aid and how will that course help you.
   
 - Starting off fill the following information similarly to the picture below, **minor changes in the annual wont change the outcome of the decision**
-  ![FA-Step-1]("Assests\Fa-pic-01.png")
 
+  <img src="Assests\Fa-pic-01.png" alt="Page Fa"/>
+  
 - Next you'll be required to fill a text explaining the reason you applied for aid use the **script below:**
   
 `"I am applying for financial Aid because I cannot afford the monthly subscription of --. I am unemployed and I want to take this course besides to other courses in order to enhance my skills in data analytics and find a job later on.
@@ -122,5 +123,6 @@ The idea of having a loan is impossible to me. I wish you could appreciate my si
 
 ------------------------------
   - The following is is a flowchart showing the order, pre and co requiste of the [Computer Science Curriculum](https://soas.lau.edu.lb/academics/programs/bs-computer-science.php) at the [Lebanese American University](https://www.lau.edu.lb/)
-![Prerequisite Flow chart](Assests\CSC-Prerequisite-Flow-Chart.png)
+
+ <img src="Assests\CSC-Prerequisite-Flow-Chart.png" alt="CS Flow Chart"/>
 
