@@ -67,7 +67,7 @@ The list include the following topics (there are subtopics in some of them):
 
 ------------------------------
 
-## Coursera Free Courses
+## University Email Benefits
 
 ------------------------------
 
